@@ -23,8 +23,37 @@
           "!type": "External",
           "file": [
             "forms",
+<<<<<<< Updated upstream
             "Form1",
             "Form1.json"
+=======
+            "while",
+            "while.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "for",
+            "for.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "calc",
+            "calc.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "Form3",
+            "Form3.json"
+>>>>>>> Stashed changes
           ]
         }
       ],
