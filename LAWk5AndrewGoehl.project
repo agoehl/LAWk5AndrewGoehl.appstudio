@@ -47,8 +47,8 @@
           "!type": "External",
           "file": [
             "forms",
-            "Form3",
-            "Form3.json"
+            "strings",
+            "strings.json"
           ]
         }
       ],
